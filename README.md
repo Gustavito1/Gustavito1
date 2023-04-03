@@ -8,6 +8,8 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/gustavo1999/)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavito1&show_icons=true&theme=onedark)
+   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavito1&show_icons=true&locale=en&layout=compact" alt="gustavito1" /></p>
 
 # Lenguajes que uso actualmente
 
